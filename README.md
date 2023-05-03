@@ -24,3 +24,9 @@ To use the OpenAI API in the UnitTestGenerator.py module, it is required to add 
 
 `self.api_key = "Your OpenAI API"`
 
+## ScreenShot
+The figure below depicts a screenshot of this software.
+![](https://s8.uupload.ir/files/untitled_fgte.jpg)
+
+
+

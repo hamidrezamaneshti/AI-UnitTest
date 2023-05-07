@@ -1,6 +1,7 @@
 # AI-UnitTest-Generator Software Ver 1.0.0
 
-This project is designed to generate unit test cases for Python functions. To extract the functions, the Abstract Syntax Tree (AST) structure was utilized. Subsequently, the OpenAI platform is prompted to generate unit test cases to assess the function. The software is equipped with a graphical user interface (GUI) that has been developed with the help of the Tkinter library.
+This project is designed to generate unit test cases for Python functions. To extract the functions, the Abstract Syntax Tree (AST) structure was utilized. Subsequently, the OpenAI platform is prompted to generate unit test cases to assess the function. The software is equipped with a graphical user interface (GUI) that has been developed with the help of the Tkinter library. Also, I deployed this project with Dash library to use it in online.
+`http://hamidrezam.pythonanywhere.com`
 
 ## Abstract Syntax Tree (AST)
 An abstract syntax tree (AST) is a data structure used to represent the abstract syntactic structure of code written in a programming language. It is a tree-like representation of the structure of the program's source code, where each node in the tree represents a construct in the code, such as a statement, expression, or function call. The nodes are interconnected in a hierarchical fashion, with the root node representing the entire program and the child nodes representing the various constructs within it.
